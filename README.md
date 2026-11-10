@@ -32,7 +32,9 @@ Developed an interactive Tableau dashboard to explore global carbon dioxide (CO�
 
 ## Project Files
 
-- `Global CO2 Emissions Project.twb` — Tableau workbook
+## Project Files
+
+- `Global CO2 Emissions Project.twbx` — Packaged Tableau workbook
 - `CO2 dashboard.png` — Dashboard screenshot
 
 ## Data Source
